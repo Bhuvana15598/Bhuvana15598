@@ -12,7 +12,7 @@ Laying the groundwork for Quantum Full-Stack development with a hardware-aware m
 
 🛠 Tools & Technologies:
 
-Q# for quantum programming and circuit simulation
-Python for upcoming scientific and quantum workflows
-Git & GitHub for version control and collaboration
+Q# for quantum programming and circuit simulation,
+Python for upcoming scientific and quantum workflows.
+Git & GitHub for version control and collaboration,
 Semiconductor simulation and modeling tools (planned)
